@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/KrushnaD7/LeetCode/tree/master/0412-fizz-buzz) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/KrushnaD7/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
 | ------- |
