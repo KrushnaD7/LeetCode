@@ -3,16 +3,20 @@ class Solution:
         # return address.replace(".","[.]")    lol
 
 
-        # a = address.split()
-        # b = ""
-        # for i in a:
-        #     if i == ".":
-        #         b = b + "[.]"
-        #     else:
-        #         b = b + i
 
-        a=  address.split(".")
-        b = "[.]".join(a)
+        # a=  address.split(".")
+        # b = "[.]".join(a)
+
+
+        
+        b = ""
+        for i in address:
+            if i == ".":
+                b = b + "[.]"
+            else:
+                b = b + i
+
+       
         
 
 
