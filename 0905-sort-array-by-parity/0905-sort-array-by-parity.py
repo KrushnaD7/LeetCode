@@ -1,8 +1,8 @@
 class Solution:
     def sortArrayByParity(self, nums: List[int]) -> List[int]:
-        n = len(nums)
+        
         s = 0
-        for i in range(n):
+        for i in range(len(nums)):
             if nums[i] % 2 == 0:
                 nums[s],nums[i] = nums[i],nums[s]
 
