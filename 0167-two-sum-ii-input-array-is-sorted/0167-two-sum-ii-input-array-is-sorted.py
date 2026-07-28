@@ -11,17 +11,28 @@ class Solution:
 
         # let solve with two pointer methon here list is order so we consider 2 pointer left and right and move them according 
 
-        l = 0
-        r = len(numbers) - 1
+        # l = 0
+        # r = len(numbers) - 1
 
-        while l <r:
+        # while l <r:
 
-            t = numbers[l] + numbers[r]
+        #     t = numbers[l] + numbers[r]
 
-            if t == target:
-                return [l+1, r+1]
-            elif t < target:
-                l+=1
+        #     if t == target:
+        #         return [l+1, r+1]
+        #     elif t < target:
+        #         l+=1
+        #     else:
+        #         r-=1
+
+        i=0
+        j=len(numbers)-1
+
+        while i <= j:
+            if numbers[i] + numbers[j] == target:
+                return [i+1,j+1]
+            elif numbers[i] + numbers[j] > target:
+                j -= 1
             else:
-                r-=1
+                i += 1
         
