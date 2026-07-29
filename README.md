@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KrushnaD7/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KrushnaD7/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/KrushnaD7/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KrushnaD7/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KrushnaD7/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrushnaD7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/KrushnaD7/LeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrushnaD7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrushnaD7/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrushnaD7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrushnaD7/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/KrushnaD7/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KrushnaD7/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/KrushnaD7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrushnaD7/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KrushnaD7/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KrushnaD7/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/KrushnaD7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/KrushnaD7/LeetCode/tree/master/0905-sort-array-by-parity) |
